@@ -29,7 +29,10 @@ Agriculture Workers and Employers  | CDC
 
 
 
+
  
+
+
 
 
 
@@ -90,14 +93,14 @@ Agriculture Workers and Employers  | CDC
 
 
 
+Nov
+DEC
 Jan
-FEB
-Mar
 
 
 
 
-10
+16
 
 
 
@@ -142,13 +145,34 @@ fail
 
 
 
+COLLECTED BY
+
+
+
+		Organization: National Library of Medicine
+
+
+	  National Library of MedicineArchive-It Partner Since: Mar, 2009Organization Type: National InstitutionsOrganization URL:http://www.nlm.nih.govThe National Library of Medicine (NLM), the world's largest medical library and a component of the National Institutes of Health, collects, preserves, and makes available to the public information about health, medicine, and the biomedical sciences. To continue fulfilling this mission, NLM is collecting and archiving related Web content, which also serves to document the histories of health and medicine.
+
+
+
+
+Collection: Global Health Events
+
+
+	  Resources documenting global health events, including the 2014 Ebola Outbreak. NLM will continue to develop, review, describe, and add content to the collection.?
+	
+
+
+
+
 TIMESTAMPS
 
 
 
 
 
-The Wayback Machine - https://web.archive.org/web/20210210054047/https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-agricultural-workers.html
+The Wayback Machine - https://web.archive.org/web/20211216100730/https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-agricultural-workers.html
 
 
 
@@ -172,9 +196,18 @@ Self-Checker
 
 
 
+
+
+
 Coronavirus Self-Checker
 
+
+
+Restart
+
+
 ×
+
 
 
 
@@ -209,7 +242,7 @@ Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives,
 
 
 
-×
+Ă—
 
 
 Submit
@@ -233,17 +266,11 @@ Submit
 
 
 
-COVID-19
+HOME
+ COVID-19
 
 
 COVID-19
-
-
-
-
-
-
-
 
 
 
@@ -267,215 +294,11 @@ Home
 
 
 
-
-About COVID-19 
-
-
-Symptoms
-
-
-
-
-Testing
-
-
-
-
-If You are Sick
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Home & Family 
-
-
-Prevent Getting Sick
-
-
-
-
-People at Increased Risk
-
-
-
-
-Children & Teens
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Going Out & Travel 
-
-
-Travel
-
-
-
-
-Daily Activities
-
-
-
-
-Returning to Work
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
-
-
-
 							Vaccines						
 
 
 
-
-Getting a Vaccine 
-
-
-Who Gets Vaccinated First
-
-
-
-
-Before Your Appointment
-
-
-
-
-After the Vaccine
-
-
-
-
-										VIEW MORE
-										
-
-
-
-About the Vaccines 
-
-
-Types of Vaccines
-
-
-
-
-How Vaccines Work
-
-
-
-
-Vaccine Safety
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Resources 
-
-
-Clinical Resources
-
-
-
-
-About the Vaccine Program
-
-
-
-
-Questions & Answers
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
-
-
-
 							Cases & Data						
-
-
-
-
-COVID Data Tracker 
-
-
-
-Cases in the Last 7 Days
-
-
-
-
-
-County Level Cases
-
-
-
-
-Vaccinations in the US
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Surveillance 
-
-
-COVIDView
-
-
-
-
-Special Populations Data
-
-
-
-
-Forecasts
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
 
 
 
@@ -484,134 +307,7 @@ Forecasts
 
 
 
-Workplaces & Businesses 
-
-
-Info by Industry
-
-
-
-
-Operating Office Buildings
-
-
-
-
-Questions & Answers
-
-
-
-
-										VIEW MORE
-										
-
-
-
-School & Higher Education 
-
-
-Schools & Child Care
-
-
-
-
-Colleges & Universities
-
-
-
-
-Operating Schools
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Community 
-
-
-Health Equity
-
-
-
-
-Organizations & Gatherings
-
-
-
-
-Parks & Recreational Facilities
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
-
-
-
-
 							Healthcare Workers						
-
-
-
-
-Healthcare Workers 
-
-
-Clinical Care
-
-
-
-
-Infection Control
-
-
-
-
-Potential Exposure at Work
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Laboratories 
-
-
-Resources for Labs
-
-
-
-
-CDC Lab Work
-
-
-
-
-Questions & Answers
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
 
 
 
@@ -622,134 +318,13 @@ Questions & Answers
 
 
 
-Resources 
 
-
-Key Resources
-
-
-
-
-Search Health Dept Resources
-
-
-
-
-Testing
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Community Mitigation 
-
-
-Community-Related Exposures
-
-
-
-
-Expanded Screening Testing
-
-
-
-
-Evaluating Strategies
-
-
-
-
-										VIEW MORE
-										
-
-
-
-Contact Tracing 
-
-
-Resources
-
-
-
-
-Notification of Exposure
-
-
-
-
-Principles
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
+							Science						
 
 
 
 
 							More						
-
-
-
-
- 
-
-
-
-Science & Research 
-
-
-
-
-
-
-Global COVID-19
-
-
-
-
-
-CDC in Action
-
-
-
-
-
-
-
-
-
-Guidance Documents
-
-
-
-
-
-
-Communication Resources
-
-
-
-
-
-										VIEW MORE
-										
-
-
-
-
-
-
 
 
 
@@ -789,7 +364,89 @@ CDC Home
 
 
 
+
+
+
+ARCHIVED WEBPAGE: This web page is available for historical purposes.
+					CDC is no longer updating this web page and it may not reflect CDC's current COVID-19 guidance.
+											For the latest information, visit CDC's COVID-19 home page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important update: Healthcare facilities
+
+				CDC has updated select ways to operate healthcare systems effectively in response to COVID-19 vaccination.
+				 Learn more
+				
+
+
+
+
+
+
+
+
+
+					Find the latest information:
+Aquatics FAQs
+Recommendations for Fully Vaccinated People
+COVID-19 Homepage
+
+
+
+
+
+
+
+
+
+
+UPDATE
+Given new evidence on the B.1.617.2 (Delta) variant, CDC has updated the guidance for fully vaccinated people. CDC recommends universal indoor masking for all teachers, staff, students, and visitors to K-12 schools, regardless of vaccination status. Children should return to full-time in-person learning in the fall with layered prevention strategies in place.
+
+
+
+
+
+
+
+
+UPDATE
+The White House announced that vaccines will be required for international travelers coming into the United States, with an effective date of November 8, 2021. For purposes of entry into the United States, vaccines accepted will include FDA approved or authorized and WHO Emergency Use Listing vaccines. More information is available here.
+
+
+
+
+
+
+
+
+UPDATE
+Travel requirements to enter the United States are changing, starting November 8, 2021. More information is available here.
+
+
+
+
  
+
+
+
+
+
+
+
 
 
 
@@ -808,9 +465,9 @@ Agriculture Workers and EmployersAgriculture Workers and EmployersInterim Guidan
 
 
 
-									Updated Feb. 2, 2021								
+										Updated June 11, 2021									
 
-LanguagesEspañol简体中文Tiếng Việt한국어Other Languages 
+LanguagesEspaĂ±olç®€ä˝“ä¸­ć–‡Tiáşżng Viá»‡tí•śęµ­ě–´Other Languages 
 
 Print
 
@@ -830,6 +487,18 @@ Related Pages
 
 
 
+
+
+
+alert icon
+The Occupational Safety and Health Administration (OSHA) provides resources to assist employers and workers identify COVID-19 exposure risks and help them take appropriate steps to prevent exposure and infection. See the OSHA Coronavirus Disease (COVID-19) topic pageexternal icon for the most current requirements, guidance, and tools.
+
+
+
+Find the Latest Information:
+
+Protecting Workers: Guidance on Mitigating and Preventing the Spread of COVID-19 in the Workplaceexternal icon
+
 This joint guidance for COVID-19 may be adapted by state and local health departments to respond to rapidly changing local circumstances.
 Key Points
 
@@ -841,14 +510,22 @@ Owners/operators should maximize opportunities to place farmworkers residing tog
 Basic information and training about infection prevention should be provided to all farmworkers in languages they can understand.
 Agriculture work sites developing plans for continuing operations where COVID-19 is spreading among workers or in the surrounding community should work directly with appropriate state and local public health officials and occupational safety and health professionals.
 
+Summary of Recent Changes
+
+Update as of February 2, 2021
 
 
+
+Added bullet about requirement of masks on public transportation conveyances and transportation hubs.​​
+
+
+
+
+ 
 On this Page:
 
-BackgroundExposure risk among agriculture workers and employersCreate a COVID-19 assessment and control planControl planScreening and monitoring workersManaging sick workersAddressing return to work after worker exposure to COVID-19Control plan—Engineering controlsControl plan—Cleaning, disinfection, and sanitationControl plan—Administrative controlsControl plan—Personal protective equipment (PPE)Special considerations for shared housingSpecial considerations for childrenOther information 
 
-Printable Resources
-Agricultural Employer Checklist pdf icon[PDF – 18 pgs]
+BackgroundExposure risk among agriculture workers and employersCreate a COVID-19 assessment and control planControl planScreening and monitoring workersManaging sick workersAddressing return to work after worker exposure to COVID-19Control plan—Engineering controlsControl plan—Cleaning, disinfection, and sanitationControl plan—Administrative controlsControl plan—Personal protective equipment (PPE)Special considerations for shared housingSpecial considerations for childrenOther information 
 
 
 Who this guidance is for: All agriculture workers and their employers.
@@ -865,8 +542,12 @@ Between people who are in close contact with one another (within about 6 feet).
 Through respiratory droplets produced when an infected person coughs, sneezes, or talks.
 
 Recent studies indicate that people who are not showing symptoms can spread the virus. It may also be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes. This is not thought to be the main way the virus spreads, but we are still learning more about this virus. Based on the limited information available to date, the risk of animals spreading COVID-19 to people is considered to be low.
-comment alt light iconCommunicating with Your EmployeesCommunication Plan for Select Non-healthcare Critical Infrastructure Employers
+Printable Resources
+Agricultural Employer Checklist pdf icon[1.35 MB, 16 Pages]
 
+
+
+comment alt light iconCommunicating with Your EmployeesCommunication Plan for Select Non-healthcare Critical Infrastructure Employers
 
 Exposure risk among agriculture workers and employers
 There is no evidence that livestock, crops, or products that may be handled by workers involved in production agriculture are sources of COVID-19 infection. However, close contact with coworkers may contribute to spreading the virus among workers.
@@ -887,7 +568,7 @@ Poor access to clean water for hygiene purposes throughout the day.
 
 
 Create a COVID-19 assessment and control plan
-Agricultural Employer ChecklistPDF Downloadpdf icon
+Agricultural Employer ChecklistPDF Download pdf icon[1.35 MB, 16 Pages]
 
 Farm owners and operators can prevent and slow the spread of COVID-19. Owners/operators should develop a COVID-19 assessment and control plan to protect themselves and farmworkers, in accordance with the CDC Interim Business Guidance for Businesses and Employees and General Business Frequently Asked Questions. State and local health departmentsexternal icon may also provide resources to aid in the development of these plans. Owners/operators can respond in flexible ways to varying levels of disease transmission in the community and be prepared to refine their control plans as needed. A control plan should reflect the specific region, work site space, job tasks, and other features of each farm, ranch, orchard, or other agricultural operations and locations. Those involved in the work can best set priorities and assess how realistic these recommendations are for specific situations at their facilities.
 Owners/operators should designate a qualified workplace coordinator who will be responsible for COVID-19 assessment and control planning. All workers should know how to contact the identified coordinator with any COVID-19 concerns, and the coordinator should handle such concerns confidentially, as appropriate. The workplace coordinator should have a means to communicate in the preferred languages spoken or read by the workers, if possible, and provide materials at the appropriate literacy level. Farmworkers should also be provided with contact information about where to get COVID-19 testing.
@@ -1121,7 +802,7 @@ Telugupdf icon | Vietnamesepdf icon
 
 Transportation used by farmworkers may be provided by the employer, owner/operator, or a contractor, or might be a carpool arranged by the farmworkers. The following considerations should apply to all types of transportation to and from the agricultural work site:
 
-Effective February 2, 2021, masks are required on planes, buses, trains, and other forms of public transportation traveling into, within, or out of the United States and in U.S. transportation hubs such as airports and stations.
+Masks are required on planes, buses, trains, and other forms of public transportation traveling into, within, or out of the United States and in U.S. transportation hubs such as airports and stations. Travelers are not required to wear a mask in outdoor areas of a conveyance (like on a ferry or the top deck of a bus). CDC recommends that travelers who are not fully vaccinated continue to wear a mask and maintain physical distance when traveling.
 Provide as much space between riders as possible.
 Group (or cohort) workers in the same crews and/or those sharing living quarters together when transporting.
 Increase the number of vehicles and the frequency of trips to limit the number of people in a vehicle.
@@ -1200,8 +881,7 @@ Syndicate
 
 
 
-Last Updated Feb. 2, 2021
-Content source: 	National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases
+															Last Updated June 11, 2021														Content source: 	National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases
 
 
 
@@ -1209,16 +889,13 @@ Content source: 	National Center for Immunization and Respiratory Diseases (NCIR
 
 
 
-homeCommunity, Work & SchoolVaccinationHealth Equityplus iconHealth Equity Considerations & Racial & Ethnic Minority GroupsWhat We Can DoHealth Equity StrategyCOVID-19 Racial and Ethnic Health DisparitiesCommunity Mitigation FrameworkCleaning, Disinfecting, & Ventilationplus iconCDC/EPA Cleaning & Disinfecting GuidanceDisinfecting Your FacilityDisinfecting Your Non-Emergency VehicleReopening Buildings After ShutdownWorkplaces & Businessesplus iconGuidance for Businesses & EmployersFAQs for Workplaces & BusinessesTesting in Non-Healthcare WorkplacesConsent Elements and Disclosures for Workplace TestingContact Tracing in Non-Healthcare WorkplacesEmployer Information for Office BuildingsRespirator Shortages in Non-Healthcare WorkplacesLimiting Workplace Violence Related to COVID-19Heat Stress PreventionWorker Supportplus iconCoping with Stress for WorkersManaging Workplace FatigueEssential Servicesplus iconCritical Infrastructure Response PlanningTesting in High-Density Critical Infrastructure WorkplacesCritical Workers with Possible ExposureSpecific Industriesplus iconConstruction COVID-19 Checklists for Employers and EmployeesFAQs for Institutional Food Service OperatorsPreparing Small BusinessesResuming Business ToolkitVentilation in BuildingsSchools & Child Careplus iconIndicators for School Decision-MakingOperating SchoolsOperating Child Care ProgramsProtecting School StaffMasks in SchoolsScreening Students for SymptomsK-12 Schools COVID-19 Mitigation ToolkitTesting in K-12 SchoolsCase Investigation and Contact Tracing in K-12 SchoolsSchool Nurses and Health ProfessionalsResources for Teachers and StaffCleaning, Disinfection & Hand HygieneFAQs for Administrators, Teachers, and ParentsColleges & Universitiesplus iconConsiderations for Institutions of Higher EducationTesting in Institutions of Higher EducationCase Investigation and Contact Tracing in Institutions of Higher EducationGuidance for Student Foreign TravelParks, Sports & Recreationplus iconConsiderations for Public BeachesConsiderations for Aquatic VenuesGuidance for Park AdministratorsConsiderations for Traveling Amusement Parks & CarnivalsSuggestions for Youth & Summer CampsConsiderations for Youth SportsYouth Sports Programs FAQsCommunity Organizations & Gatheringsplus iconCommunity-Based OrganizationsCommunities of FaithEvents & GatheringsFAQs for Event PlannersElections & Votingplus iconElections ToolkitFood Pantries & Distribution SitesOutdoor Learning Gardens & Community GardensAnimal Activities at Fairs, Shows & Other EventsShared & Congregate Housingplus iconGuidance for Shared or Congregate HousingGroup Homes for Individuals with DisabilitiesMultifamily HousingRetirement Communitiesplus iconLiving in or Visiting Retirement CommunitiesChecklist to Stay HealthyConsiderations for Retirement Communities & Independent Living FacilitiesFAQs for AdministratorsHomeless Populationsplus iconInterim Guidance on COVID-19 Vaccination ImplementationInterim Guidance on People Experiencing Unsheltered HomelessnessInterim Guidance for Homeless Service ProvidersScreening for SymptomsTesting in Homeless Shelters & EncampmentsFAQs for Homeless SheltersVaccination FAQsYouth Experiencing HomelessnessCorrectional & Detention Facilitiesplus iconGuidance for Correctional & Detention FacilitiesFAQs for Administrators, Staff, Incarcerated People & Family MembersTesting in Correctional & Detention Facilities​Quarantine Duration in Correctional FacilitiesVaccine FAQs in Correctional and Detention CentersTribal Communitiesplus iconFuneral & Burial ServicesSafe Watering Points GuidanceTribal Community Life During COVID-19Recommendations for Tribal Ceremonies & GatheringsNon-emergency Transportation for Tribal CommunitiesResources for Tribes
-Guidance Documents
+homeCommunity, Work, & SchoolHealth Equity – Promoting Fair Access to Healthplus iconHealth Equity Considerations & Racial & Ethnic Minority GroupsWhat We Can Do to Promote Health EquityCOVID-19 Vaccine EquityHealth Equity in ActionCOVID-19 Racial and Ethnic Health DisparitiesCDC COVID-19 Response Health Equity StrategyEmployer Toolkit for H-2A WorkersPeople with Agricultural Work Visa (H-2A Visa)Cleaning, Disinfecting, & Ventilationplus iconCleaning Your FacilityVentilation in BuildingsWorkplaces & Businessesplus iconWorkplace Vaccination ProgramPost Vaccine Considerations for WorkplacesTesting in Non-Healthcare WorkplacesConsent Elements and Disclosures for Workplace TestingContact Tracing in Non-Healthcare WorkplacesSpecific IndustriesInvestigating and responding to COVID-19 cases in non-healthcare work settingsSchools, Child Care, and Collegesplus iconK-12 SchoolsConsiderations for Institutions of Higher EducationTesting for COVID-19 in Schoolsplus iconAbout Testing in SchoolsLetters for Parents & StaffFAQs for Parents & StaffSocial Media & GraphicsResponding to COVID-19 Cases in Schoolsplus iconWhat School Administrators Can DoContact Tracing Notification LettersQuarantine for K-12 SchoolsSteps for Determining Close Contact and QuarantineIsolation for K-12 SchoolsEarly Childhood Education & Child Care ProgramsVentilation in Schools and Child Care ProgramsCase Investigation in K-12 Schools & Institutions of Higher EducationParent FAQsAdministrator FAQsRetirement & Shared Housingplus iconGroup Homes for Individuals with DisabilitiesMultifamily HousingHomeless Populationsplus iconInterim Guidance on COVID-19 Vaccination ImplementationFAQs for Homeless SheltersVaccination FAQsInterim Guidance on People Experiencing Unsheltered HomelessnessInterim Guidance for Homeless Service ProvidersYouth Experiencing HomelessnessTesting in Homeless Shelters & EncampmentsScreening for SymptomsList of COVID-19 Resources for Homeless PopulationsCorrectional & Detention Facilitiesplus iconGuidance for Correctional & Detention FacilitiesFAQs for Administrators, Staff, Incarcerated People & Family MembersTesting in Correctional & Detention Facilities​Quarantine Duration in Correctional FacilitiesVaccine FAQs in Correctional & Detention CentersResources for Correctional & Detention FacilitiesTribal Communitiesplus iconCOVID-19 Children’s Eagle Book Coloring StorybookTribal Communities & COVID-19 VaccinesSafe Watering Points GuidanceTribal Community Life During COVID-19Recommendations for Tribal Ceremonies & GatheringsNon-emergency Transportation for Tribal CommunitiesResources for Tribes
+Guidance for COVID-19plus iconSearch Guidance Documents
 
-Communication Resourcesplus iconSocial Media ToolkitButtons & BadgesPrint ResourcesPublic Service Announcements (PSAs)Videos
+Communication Resourcesplus iconButtons & BadgesPrint ResourcesPublic Service Announcements (PSAs)Videos
 
 What's New
- 
-
- email_03Get Email Updates  To receive email updates about COVID-19, enter your email address:     Email Address       What's this?   Submit       
-
+Archive 
 
 
 
@@ -1227,6 +904,7 @@ What's New
 
 
  
+
 
 
 
@@ -1266,6 +944,7 @@ Jobs
 Funding
 Policies
 File Viewers & Players
+Other Languages
 
 
 
@@ -1276,6 +955,7 @@ No Fear Act
 OIG
 Nondiscrimination
 Accessibility
+Vulnerability Disclosure Policy
 
 
 
@@ -1301,96 +981,8 @@ Email
 
 
 
-
-
-U.S. Department of Health & Human Services
-
-
-
-
-USA.gov
-
-
-
-
-CDC Website Exit Disclaimer external icon
-
-
-
-
-
-
-
-
-LANGUAGE ASSISTANCE
-
-
-
-
-Español
-
-
-繁體中文
-
-
-Tiếng Việt
-
-
-한국어
-
-
-
-
-Tagalog
-
-
-Русский
-
-
-العربية
-
-
-Kreyòl Ayisyen
-
-
-
-
-Français
-
-
-Polski
-
-
-Português
-
-
-Italiano
-
-
-
-
-Deutsch
-
-
-日本語
-
-
-فارسی
-
-
-English
-
-
-
-
-
-
-
-
-
-
-CONTACT CDC
-
+				CONTACT CDC
+			
 
 
 
@@ -1432,18 +1024,13 @@ Open 24/7
 
 
 
-ABOUT CDC
-
-
+				ABOUT CDC
+			
 
 
 
 About CDC
-
-
 Jobs
-
-
 Funding
 
 
@@ -1451,37 +1038,21 @@ Funding
 
 
 
-
-POLICIES
-
-
+				POLICIES
+			
 
 
 
 Policies
-
-
 File Viewers & Players
-
-
+Other Languages
 Privacy
-
-
 FOIA
-
-
 No Fear Act
-
-
 OIG
-
-
 Nondiscrimination
-
-
 Accessibility
-
-
+Vulnerability Disclosure Policy
 CDC Website Exit Disclaimer external icon
 
 
@@ -1489,29 +1060,27 @@ CDC Website Exit Disclaimer external icon
 
 
 
-
-LANGUAGE ASSISTANCE
-
-
+				LANGUAGE ASSISTANCE
+			
 
 
-Español
-繁體中文
-Tiếng Việt
-한국어
+
+EspaĂ±ol
+çą?é«”ä¸­ć–‡
+Tiáşżng Viá»‡t
+í•śęµ­ě–´
 Tagalog
-Русский
-العربية
-Kreyòl Ayisyen
-Français
+Đ Ń?Ń?Ń?ĐşĐ¸Đą
+Ř§Ů„ŘąŘ±Ř¨ŮŠŘ©
+KreyĂ˛l Ayisyen
+FranĂ§ais
 Polski
-Português
+PortuguĂŞs
 Italiano
 Deutsch
-日本語
-فارسی
+ć—Ąćś¬čŞž
+Ů?Ř§Ř±ŘłŰŚ
 English
-
 
 
 
@@ -1543,10 +1112,89 @@ Email
 
 
 
+
+
+
+
+
+
 U.S. Department of Health & Human Services
 
 
+
+
 USA.gov
+
+
+
+
+CDC Website Exit Disclaimer external icon
+
+
+
+
+
+
+
+
+LANGUAGE ASSISTANCE
+
+
+
+
+EspaĂ±ol
+
+
+çą?é«”ä¸­ć–‡
+
+
+Tiáşżng Viá»‡t
+
+
+í•śęµ­ě–´
+
+
+
+
+Tagalog
+
+
+Đ Ń?Ń?Ń?ĐşĐ¸Đą
+
+
+Ř§Ů„ŘąŘ±Ř¨ŮŠŘ©
+
+
+KreyĂ˛l Ayisyen
+
+
+
+
+FranĂ§ais
+
+
+Polski
+
+
+PortuguĂŞs
+
+
+Italiano
+
+
+
+
+Deutsch
+
+
+ć—Ąćś¬čŞž
+
+
+Ů?Ř§Ř±ŘłŰŚ
+
+
+English
+
 
 
 
@@ -1885,7 +1533,9 @@ stats
 
 
 
-Exit Notification/Disclaimer Policy
+
+
+Exit Notification / Disclaimer Policy
 
 Close
 
