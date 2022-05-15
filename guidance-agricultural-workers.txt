@@ -1,9 +1,29 @@
+ARCHIVED WEBPAGE: This web page is available for historical purposes.
+CDC is no longer updating this web page and it may not reflect CDC's current COVID-19 guidance.
+For the latest information, visit CDC's COVID-19 home page.
+Important update: Healthcare facilities
+CDC has updated select ways to operate healthcare systems effectively in response to COVID-19 vaccination.
+Learn more
+Find the latest information:
+Aquatics FAQs
+Recommendations for Fully Vaccinated People
+COVID-19 Homepage
+UPDATE
+Given new evidence on the B.1.617.2 (Delta) variant, CDC has updated the guidance for fully vaccinated people. CDC recommends universal indoor masking for all teachers, staff, students, and visitors to K-12 schools, regardless of vaccination status. Children should return to full-time in-person learning in the fall with layered prevention strategies in place.
+UPDATE
+The White House announced that vaccines will be required for international travelers coming into the United States, with an effective date of November 8, 2021. For purposes of entry into the United States, vaccines accepted will include FDA approved or authorized and WHO Emergency Use Listing vaccines. More information is available here.
+UPDATE
+Travel requirements to enter the United States are changing, starting November 8, 2021. More information is available here.
 Agriculture Workers and EmployersAgriculture Workers and EmployersInterim Guidance from CDC and the U.S. Department of Labor
-Updated Feb. 2, 2021
-LanguagesEspañol简体中文Tiếng Việt한국어Other Languages
+Updated June 11, 2021
+LanguagesEspaĂ±olç®€ä˝“ä¸­ć–‡Tiáşżng Viá»‡tí•śęµ­ě–´Other Languages
 Print
 Minus
 Related Pages
+alert icon
+The Occupational Safety and Health Administration (OSHA) provides resources to assist employers and workers identify COVID-19 exposure risks and help them take appropriate steps to prevent exposure and infection. See the OSHA Coronavirus Disease (COVID-19) topic pageexternal icon for the most current requirements, guidance, and tools.
+Find the Latest Information:
+Protecting Workers: Guidance on Mitigating and Preventing the Spread of COVID-19 in the Workplaceexternal icon
 This joint guidance for COVID-19 may be adapted by state and local health departments to respond to rapidly changing local circumstances.
 Key Points
 Management in the agriculture industry should conduct work site assessmentsexternal icon to identify coronavirus disease 2019 (COVID-19) risks and infection prevention strategies to protect workers.
@@ -13,10 +33,11 @@ Grouping workers together into cohorts may reduce the spread of COVID-19 transmi
 Owners/operators should maximize opportunities to place farmworkers residing together in the same vehicles for transportation and in the same cohorts to limit exposure.
 Basic information and training about infection prevention should be provided to all farmworkers in languages they can understand.
 Agriculture work sites developing plans for continuing operations where COVID-19 is spreading among workers or in the surrounding community should work directly with appropriate state and local public health officials and occupational safety and health professionals.
+Summary of Recent Changes
+Update as of February 2, 2021
+Added bullet about requirement of masks on public transportation conveyances and transportation hubs.​​
 On this Page:
 BackgroundExposure risk among agriculture workers and employersCreate a COVID-19 assessment and control planControl planScreening and monitoring workersManaging sick workersAddressing return to work after worker exposure to COVID-19Control plan—Engineering controlsControl plan—Cleaning, disinfection, and sanitationControl plan—Administrative controlsControl plan—Personal protective equipment (PPE)Special considerations for shared housingSpecial considerations for childrenOther information
-Printable Resources
-Agricultural Employer Checklist pdf icon[PDF – 18 pgs]
 Who this guidance is for: All agriculture workers and their employers.
 Farm operations vary across regions of the country. This guidance provides a template of action to protect agriculture workers from coronavirus disease 2019 (COVID-19). Agricultural employers can adapt these recommendations to protect workers at their particular work sites or in specific work operations.
 Purpose: Agriculture work sites, shared worker housing, and shared worker transportation vehicles present unique challenges for preventing and controlling the spread of COVID-19. Consistent application of specific preparation, prevention, and management measures can help reduce the risk of spreading COVID-19.
@@ -29,6 +50,8 @@ The virus is thought to spread mainly from person-to-person:
 Between people who are in close contact with one another (within about 6 feet).
 Through respiratory droplets produced when an infected person coughs, sneezes, or talks.
 Recent studies indicate that people who are not showing symptoms can spread the virus. It may also be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes. This is not thought to be the main way the virus spreads, but we are still learning more about this virus. Based on the limited information available to date, the risk of animals spreading COVID-19 to people is considered to be low.
+Printable Resources
+Agricultural Employer Checklist pdf icon[1.35 MB, 16 Pages]
 comment alt light iconCommunicating with Your EmployeesCommunication Plan for Select Non-healthcare Critical Infrastructure Employers
 Exposure risk among agriculture workers and employers
 There is no evidence that livestock, crops, or products that may be handled by workers involved in production agriculture are sources of COVID-19 infection. However, close contact with coworkers may contribute to spreading the virus among workers.
@@ -44,7 +67,7 @@ Contact within their households/families and with fellow workers in community se
 Mobility of the workforce (i.e., migrant workers) who, in moving from farm to farm, can potentially spread the virus between communities.
 Poor access to clean water for hygiene purposes throughout the day.
 Create a COVID-19 assessment and control plan
-Agricultural Employer ChecklistPDF Downloadpdf icon
+Agricultural Employer ChecklistPDF Download pdf icon[1.35 MB, 16 Pages]
 Farm owners and operators can prevent and slow the spread of COVID-19. Owners/operators should develop a COVID-19 assessment and control plan to protect themselves and farmworkers, in accordance with the CDC Interim Business Guidance for Businesses and Employees and General Business Frequently Asked Questions. State and local health departmentsexternal icon may also provide resources to aid in the development of these plans. Owners/operators can respond in flexible ways to varying levels of disease transmission in the community and be prepared to refine their control plans as needed. A control plan should reflect the specific region, work site space, job tasks, and other features of each farm, ranch, orchard, or other agricultural operations and locations. Those involved in the work can best set priorities and assess how realistic these recommendations are for specific situations at their facilities.
 Owners/operators should designate a qualified workplace coordinator who will be responsible for COVID-19 assessment and control planning. All workers should know how to contact the identified coordinator with any COVID-19 concerns, and the coordinator should handle such concerns confidentially, as appropriate. The workplace coordinator should have a means to communicate in the preferred languages spoken or read by the workers, if possible, and provide materials at the appropriate literacy level. Farmworkers should also be provided with contact information about where to get COVID-19 testing.
 The workplace coordinators and management need to follow all applicable federal, state, and local regulations and should be aware of the evolving nature of recommendations regarding worker safety and health during the COVID-19 pandemic. Work site assessments to identify COVID-19 risks and prevention strategies should be done periodically as part of sound occupational health and public health practice.
@@ -216,7 +239,7 @@ Marshallesepdf icon | Russianpdf icon
 Spanishpdf icon | Tamilpdf icon
 Telugupdf icon | Vietnamesepdf icon
 Transportation used by farmworkers may be provided by the employer, owner/operator, or a contractor, or might be a carpool arranged by the farmworkers. The following considerations should apply to all types of transportation to and from the agricultural work site:
-Effective February 2, 2021, masks are required on planes, buses, trains, and other forms of public transportation traveling into, within, or out of the United States and in U.S. transportation hubs such as airports and stations.
+Masks are required on planes, buses, trains, and other forms of public transportation traveling into, within, or out of the United States and in U.S. transportation hubs such as airports and stations. Travelers are not required to wear a mask in outdoor areas of a conveyance (like on a ferry or the top deck of a bus). CDC recommends that travelers who are not fully vaccinated continue to wear a mask and maintain physical distance when traveling.
 Provide as much space between riders as possible.
 Group (or cohort) workers in the same crews and/or those sharing living quarters together when transporting.
 Increase the number of vehicles and the frequency of trips to limit the number of people in a vehicle.
@@ -266,5 +289,4 @@ Facebook
 Twitter
 LinkedIn
 Syndicate
-Last Updated Feb. 2, 2021
-Content source: 	National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases
+Last Updated June 11, 2021														Content source: 	National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases
